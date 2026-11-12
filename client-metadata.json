@@ -1,0 +1,15 @@
+{
+  "client_id": "https://gist.githubusercontent.com/ashwinp22/5a43741f14b6a7badadbac24696543ae/raw/client-metadata.json",
+  "client_name": "Qira",
+  "application_type": "native",
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "redirect_uris": [
+    "qira://callback",
+    "http://127.0.0.1/callback",
+	"http://localhost/callback"
+  ],
+  "client_uri": "https://qira.lenovo.com",
+  "logo_uri": "https://qira.lenovo.com/logo.png"
+ }
