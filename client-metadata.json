@@ -6,7 +6,6 @@
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "redirect_uris": [
-    "qira://callback",
     "http://127.0.0.1/callback",
 	"http://localhost/callback"
   ],
